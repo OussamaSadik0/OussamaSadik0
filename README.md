@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OussamaSadik0
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html 
-- 💞️ I’m looking to collaborate on css & java script
+- 🌱 I want to learn css & java script
 
 
 <!---
